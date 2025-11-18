@@ -1,31 +1,31 @@
-# Página Pessoal - Lucas Santana Marianni
+# 🌟 Mundo da Gaita — Website Informativo
 
-Este projeto é uma página HTML estilizada com CSS que apresenta informações pessoais, hobbies, interesses profissionais e outros detalhes sobre o autor, **Lucas Santana Marianni**.
-
----
-
-## 📄 Sobre o Projeto
-
-A página exibe:
-
-- Nome completo  
-- Idade  
-- Pequena descrição pessoal  
-- Lista de hobbies  
-- Interesses profissionais  
-- Cidade onde mora  
-- Rodapé com direitos autorais  
-
-O design é simples, centralizado e usa uma paleta escura com destaque para o conteúdo.
+Este projeto é um site simples e informativo dedicado ao universo da **gaita/sanfona**, contendo histórico, curiosidades, conteúdos e navegação lateral fixa para facilitar o acesso às seções.
 
 ---
 
-## 🖥️ Tecnologias Utilizadas
+## 📌 Funcionalidades
 
-- **HTML5**
-- **CSS3**
+- **Menu lateral fixo** com links para as seções da página.  
+- **Seções informativas** sobre:
+  - Início  
+  - Sobre o instrumento  
+  - Serviços / Conteúdos  
+  - História  
+  - Curiosidades  
+  - Contato  
+- **Botão “Voltar ao Topo”**, exibido dinamicamente conforme o scroll.  
+- **Layout responsivo** com Media Query para dispositivos móveis.  
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript** (para o botão de voltar ao topo)
+
+---
+
+## 📂 Estrutura de Arquivos
 
