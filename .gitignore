@@ -1,18 +1,18 @@
 # Sistema operacional
-Thumbs.db
 .DS_Store
-
-# Arquivos temporários
-*.tmp
-*.log
+Thumbs.db
 
 # VSCode
 .vscode/
 *.code-workspace
 
-# Node (caso um dia use)
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Node (caso adicione JS externo futuramente)
 node_modules/
 
-# Deploys/Builds (caso adicione futuramente)
+# Pastas de build (caso um dia use bundlers)
 dist/
 build/
