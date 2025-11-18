@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gaita/Sanfona</title>
+</head>
+<body>
+
+  <!-- Cabeçalho -->
+  <header>
+    <h1>Bem-vindo ao mundo da Gaita</h1>
+  </header>
+
+  <!-- Barra lateral fixa -->
+  <aside>
+    <ul>
+      <li><a href="#inicio">Início</a></li>
+      <li><a href="#sobre">Sobre</a></li>
+      <li><a href="#servicos">Serviços</a></li>
+      <li><a href="#historia">História</a></li>
+      <li><a href="#curiosidades">Curiosidades</a></li>
+      <li><a href="#contato">Contato</a></li>
+    </ul>
+  </aside>
+
+  <!-- Conteúdo principal -->
+  <div class="container">
+    <main>
+      <section id="inicio">
+        <h1>Início</h1>
+        <p>A gaita, também conhecida como sanfona em algumas regiões, é um instrumento musical tradicional muito presente na música folclórica e popular. Aqui você vai conhecer um pouco mais sobre ela!</p>
+      </section>
+
+      <section id="sobre">
+        <h1>Sobre a Gaita/Sanfona</h1>
+        <p>A gaita é usada em vários estilos musicais, especialmente na música nordestina, como forró, baião e xote. Ela possui diferentes tipos, como a diatônica, cromática e de piano, cada uma com suas características próprias.</p>
+      </section>
+
+      <section id="servicos">
+        <h1>Serviços e Conteúdos</h1>
+        <p>Aqui você encontra dicas de músicos famosos, tutoriais para aprender a tocar, partituras e informações sobre a manutenção do instrumento. Também oferecemos recomendações de cursos online e aulas presenciais.</p>
+      </section>
+
+      <section id="historia">
+        <h1>História da Gaita</h1>
+        <p>A sanfona tem origens antigas, sendo derivada de instrumentos europeus que chegaram ao Brasil durante a colonização. Desde então, passou a fazer parte da cultura popular, especialmente no Nordeste, onde é símbolo de festas juninas e tradições culturais.</p>
+        <p>Durante o século XX, grandes músicos ajudaram a popularizar a sanfona, tornando-a um dos instrumentos mais icônicos da música brasileira.</p>
+      </section>
+
+      <section id="curiosidades">
+        <h1>Curiosidades</h1>
+        <p>Você sabia que existem gaitas com mais de 100 botões? E que cada modelo pode variar em tonalidade e alcance musical? Além disso, a sanfona é considerada um dos instrumentos mais complexos de se tocar, exigindo coordenação entre as duas mãos e a respiração do fole.</p>
+      </section>
+
+      <section id="contato">
+        <h1>Contato</h1>
+        <p>Para saber mais, tirar dúvidas ou compartilhar experiências sobre a gaita, entre em contato conosco! Estamos disponíveis por e-mail, redes sociais ou formulário de contato.</p>
+      </section>
+    </main>
+  </div>
+
+  <!-- Rodapé -->
+  <footer>
+    <p>&copy; 2025 - Mundo da Gaita. Todos os direitos reservados.</p>
+  </footer>
+
+  <!-- Botão voltar ao topo -->
+  <button id="topo">Voltar ao Topo</button>
+
+</body>
+</html>
